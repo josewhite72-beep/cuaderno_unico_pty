@@ -1,0 +1,28 @@
+{
+  "name": "Cuaderno Único Docente 2026",
+  "short_name": "Cuaderno Único",
+  "start_url": "/cuaderno_unico_pty/",
+  "scope": "/cuaderno_unico_pty/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "/cuaderno_unico_pty/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/cuaderno_unico_pty/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/cuaderno_unico_pty/icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
